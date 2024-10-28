@@ -615,7 +615,7 @@ variant: ""
 </code>
 </pre>
 </td>
-      <td><p>VM operatror deployment name override</p>
+      <td><p>VM operator deployment name override</p>
 </td>
     </tr>
     <tr>
